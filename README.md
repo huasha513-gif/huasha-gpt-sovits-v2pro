@@ -184,9 +184,9 @@ with open("output.wav", "wb") as f:
 
 ## 许可
 
-⚠️ **本模型仅供个人学习和研究使用，不可商用。** 声音素材克隆自 AI 语音助手的语音输出，原始声音版权归 OpenAI 所有，本项目不拥有该声音的任何权利。
+⚠️ **本模型仅供个人学习和研究使用，不可商用。** 声音素材克隆自 ChatGPT 语音输出，原始声音版权归 OpenAI 所有，本项目不拥有该声音的任何权利，不支持商用！
 
-模型权重基于 GPT-SoVITS 项目训练，请同时遵循 [GPT-SoVITS 的许可协议](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)。
+本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。模型权重基于 GPT-SoVITS (MIT) 框架训练，但因声音素材版权限制，整体不可商用。
 
 ---
 
@@ -374,6 +374,6 @@ To use your own reference audio:
 
 ## License
 
-⚠️ **This model is for personal learning and research only. Commercial use is prohibited.** The voice is cloned from an AI voice assistant's speech output. Copyright of the original voice belongs to OpenAI. This project does not claim any rights to the voice.
+⚠️ **This model is for personal learning and research only. Commercial use is prohibited.** The voice is cloned from ChatGPT speech output. Copyright of the original voice belongs to OpenAI. This project does not claim any rights to the voice. Commercial use is strictly prohibited!
 
-Weights trained using the GPT-SoVITS framework. Please also follow the [GPT-SoVITS license](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE).
+This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Weights are trained using the GPT-SoVITS (MIT) framework, but due to voice source copyright restrictions, the overall project is non-commercial.
