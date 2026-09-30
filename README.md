@@ -184,7 +184,7 @@ with open("output.wav", "wb") as f:
 
 ## 许可
 
-⚠️ **本模型仅供个人学习和研究使用，不可商用。** 声音素材基于 AI 语音克隆技术生成，原始声音版权归原作者所有。
+⚠️ **本模型仅供个人学习和研究使用，不可商用。** 声音素材克隆自 AI 语音助手的语音输出，原始声音版权归 OpenAI 所有，本项目不拥有该声音的任何权利。
 
 模型权重基于 GPT-SoVITS 项目训练，请同时遵循 [GPT-SoVITS 的许可协议](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)。
 
@@ -374,6 +374,6 @@ To use your own reference audio:
 
 ## License
 
-⚠️ **This model is for personal learning and research only. Commercial use is prohibited.** The voice material is generated using AI voice cloning technology; copyright of the original voice belongs to the original author.
+⚠️ **This model is for personal learning and research only. Commercial use is prohibited.** The voice is cloned from an AI voice assistant's speech output. Copyright of the original voice belongs to OpenAI. This project does not claim any rights to the voice.
 
 Weights trained using the GPT-SoVITS framework. Please also follow the [GPT-SoVITS license](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE).
